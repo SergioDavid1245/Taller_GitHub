@@ -1,0 +1,20 @@
+D:\Users\alulab14\Documents\L5_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+D:\Users\alulab14\Documents\L5_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+C:\Users\junco\Downloads\L5_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+C:\Users\junco\Downloads\L5_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 6\L6_20170014 _Dorcas\L5_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 6\L6_20170014 _Dorcas\L5_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 6\L6_20170014 _Dorcas_cvs\L6_20170014 _Dorcas\L5_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 6\L6_20170014 _Dorcas_cvs\L6_20170014 _Dorcas\L5_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 6\L6_20170014 _Dorcas_cvs\L6_20170014 _Dorcas\L8_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 6\L6_20170014 _Dorcas_cvs\L6_20170014 _Dorcas\L8_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+D:\Users\alulab14\Documents\L8_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+D:\Users\alulab14\Documents\L8_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 8\L8_20170014 (1)\L8_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 8\L8_20170014 (1)\L8_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 8\L11_20170014\L11_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+C:\Users\junco\OneDrive\Documentos\DORCAS\2025-2\POO\Lab Calificado 8\L11_20170014\L11_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+D:\Users\alulab14\Documents\L11_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+D:\Users\alulab14\Documents\L11_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
+C:\Users\USER\Downloads\L11\L11_20170014\L11_20170014\MecProdController\x64\Debug\MecProdController.vcxproj.AssemblyReference.cache
+C:\Users\USER\Downloads\L11\L11_20170014\L11_20170014\MecProdController\x64\Debug\MecProdC.6E0F51C0.Up2Date
